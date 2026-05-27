@@ -1,3 +1,1 @@
-https://github.com/Echoshields/Tomes-of-Void-Vitality/releases/latest/download/module.json
-
-This is a playtest content for Pathfinder 2E based around themes of Void & Vitality
+[https://github.com/Echoshields/Tomes-of-Void-and-Vitality/releases/download/1.0.0/tomes-of-void-and-vitality.zip](https://github.com/Echoshields/Tomes-of-Void-and-Vitality/releases/latest/download/module.json)
