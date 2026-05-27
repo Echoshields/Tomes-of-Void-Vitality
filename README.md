@@ -1,1 +1,1 @@
-[https://github.com/Echoshields/Tomes-of-Void-and-Vitality/releases/download/1.0.0/tomes-of-void-and-vitality.zip](https://github.com/Echoshields/Tomes-of-Void-and-Vitality/releases/latest/download/module.json)
+https://github.com/Echoshields/Tomes-of-Void-Vitality/releases/latest/download/module.json
